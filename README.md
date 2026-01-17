@@ -5,7 +5,7 @@ Is project ka purpose clean architecture, scalable codebase aur smooth CI/CD wor
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Frontend: React + Tailwind CSS  
 - Backend: Node.js (planned / in progress)  
@@ -24,3 +24,4 @@ Jobion/
 │   └── package.json
 ├── README.md
 └── .github/workflows/
+
